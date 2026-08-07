@@ -46,7 +46,7 @@ Selected for:
 
 ### Pricing Information
 - Current price
-- Original price (if available)
+- Old price
 - Discount percentage
 - Scrape date
 
