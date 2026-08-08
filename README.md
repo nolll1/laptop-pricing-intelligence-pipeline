@@ -18,7 +18,6 @@ The project aims to answer questions such as:
 - Which specifications have the biggest impact on price?
 - How do RAM, storage, CPU, and GPU affect pricing?
 - Which brands offer the best value for money?
-- How do laptop prices change over time?
 - Which products see the largest discounts?
 
 ---
@@ -87,12 +86,4 @@ Selected for:
 
 ---
 
-## Status
 
-✅ **Completed:**
-- Data collection (scraping)
-- Data cleaning and feature engineering
-- Loading into Snowflake data warehouse
-
-🚧 **In progress:**
-- Analytical dashboards and visualization in Power BI
